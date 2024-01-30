@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "bun run --hot src/index.tsx"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.29.3",
+    "hono": "^3.12.6"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.0.0",
+    "drizzle-kit": "^0.20.13"
+  }
+}
