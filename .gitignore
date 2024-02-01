@@ -1,3 +1,6 @@
 .env
+.idea
+.DS_Store
+drizzle
 node_modules
 sqlite.db
